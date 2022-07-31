@@ -1,5 +1,5 @@
 body{
-    background-image: url('/img/backgound/pink-gradient-background-free-photo.jpg');
+    background: linear-gradient(90deg, rgba(244,183,157,1) 0%, rgba(237,95,107,1) 55%, rgba(236,116,116,1) 100%);
     font-family: 'Lora', serif;
     
 }
@@ -9,7 +9,7 @@ h2{
 
 
 .bg-light{
-    background-image: url(/img/backgound/pink-gradient-background-free-photo.jpg);
+    background: linear-gradient(90deg, rgba(244,183,157,1) 0%, rgba(237,95,107,1) 55%, rgba(236,116,116,1) 100%);
 }
 
 .carousel{
