@@ -9,7 +9,7 @@ h2{
 
 
 .bg-light{
-    background-image: url('/img/backgound/pink-gradient-background-free-photo.jpg');
+    background-image: url(/img/backgound/pink-gradient-background-free-photo.jpg);
 }
 
 .carousel{
